@@ -90,6 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Ignacio Talavera Cepeda - [LinkedIn Profile](https://www.linkedin.com/in/ignacio-talavera-cepeda/) - ignaciotalaveracepeda@gmail.com
+
 Luis Rodríguez Rubio - [LinkedIn Profile](https://www.linkedin.com/in/luis-rodriguez-rubio/) - rodriguez.ru.luis@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
