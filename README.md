@@ -32,7 +32,7 @@
   <a href="https://github.com/ignacioct/SportClassificator">
   </a>
 
-  <h1 align="center">Sport Classificator </h1>
+  <h1 align="center">Sport Classifier </h1>
 
   <p align="center">
     Sport classification using Convolutional NN and Tensorflow.
