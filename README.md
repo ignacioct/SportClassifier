@@ -70,7 +70,8 @@
 * Python 3 (Compatible with all 3 subversions)
 * Jupyter Notebooks
 * TensorFlow
-* Datasets provided by Kaggle and ImageNet
+* Datasets provided by Kaggle and ImageNet 
+* [Weights & Biases](https://wandb.ai/) for tracking and logging the experiments
 
 <!-- GETTING STARTED -->
 ## Documentation
