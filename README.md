@@ -93,6 +93,8 @@ Ignacio Talavera Cepeda - [LinkedIn Profile](https://www.linkedin.com/in/ignacio
 
 Luis Rodríguez Rubio - [LinkedIn Profile](https://www.linkedin.com/in/luis-rodriguez-rubio/) - rodriguez.ru.luis@gmail.com
 
+Javier Mora Argumánez - [LinkedIn Profile](https://www.linkedin.com/in/javier-mora-argum%C3%A1nez-92bb00200/) - jmargumanez99@gmail.com
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/ignacioct/SportClassificator.svg?style=for-the-badge
 [contributors-url]: https://github.com/ignacioct/SportClassificator/graphs/contributors
