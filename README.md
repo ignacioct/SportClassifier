@@ -78,7 +78,8 @@
 
 * [1] Medium: [Understanding of convolutional neural network](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
 * [2] Medium: [Sport image classification with Neural Networks](https://medium.com/jovianml/sport-image-classification-with-neural-networks-16929b9f7932)
-* [3] Kaggle: [Sportify](https://www.kaggle.com/c/sportify-physdl/data)
+* [3] Towards Data Science: [Image detection from scratch in Keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9)
+* [4] Kaggle: [Sportify](https://www.kaggle.com/c/sportify-physdl/data)
 
 
 <!-- LICENSE -->
