@@ -115,3 +115,5 @@ print('Shape of validation set: {}'.format(X_val.shape))
 print('Shape of train labels set: {}'.format(Y_train.shape))
 print('Shape of test labels set: {}'.format(Y_test.shape))
 print('Shape of validation labels set: {}'.format(Y_val.shape))
+
+#TODO: MANTENER EL PORCENTAJE DE CLASES CONSTANTE EN LOS TRES SETS
