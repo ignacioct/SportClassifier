@@ -1,16 +1,6 @@
 import pandas as pd
-import tensorflow as tf
-from tensorflow import keras
-import seaborn as sns
-from PIL import Image
-import pathlib
 import numpy as np
-import matplotlib.pyplot as plt
-import os
-from tensorflow.keras import layers
-from tensorflow.keras.models import Sequential
 import cv2
-import random
 
 
 def preprocessing():
