@@ -80,8 +80,8 @@
 * [2] Medium: [Sport image classification with Neural Networks](https://medium.com/jovianml/sport-image-classification-with-neural-networks-16929b9f7932)
 * [3] Towards Data Science: [Image detection from scratch in Keras](https://towardsdatascience.com/image-detection-from-scratch-in-keras-f314872006c9)
 * [4] Kaggle: [Sportify](https://www.kaggle.com/c/sportify-physdl/data)
-
-
+* [5] Medium: [Differences between Inception, Resnet and Mobilenet](https://medium.com/@fransiska26/the-differences-between-inception-resnet-and-mobilenet-e97736a709b0)
+* [6] Towards Data Science: [Understand and implement ResNet 50 with Tensorflow 2](https://towardsdatascience.com/understand-and-implement-resnet-50-with-tensorflow-2-0-1190b9b52691)
 <!-- LICENSE -->
 ## License
 
