@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project we are going to build a sport-image classifier using TensorFlow and Keras. The idea is simple: create model that, given an image in which some sport is being played, is able to tell which is taken place. 
+In this project we are going to build a sport-image classifier using TensorFlow and Keras. The idea is simple: create model that, given an image in which some sport is being played, is able to tell which is taking place. 
 
 The dataset chosen is [this one from Kaggle](https://www.kaggle.com/sovitrath/sports-image-dataset), where there are labeled images of 22 different sports, which are:
 ```
