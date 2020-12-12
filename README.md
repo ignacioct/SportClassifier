@@ -62,8 +62,37 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+In this project we are going to build and sport-image classifier using TensorFlow and Keras. The idea is simple: create model that, given an image in which some sport is being played, is able to tell which is taken place. 
 
+The dataset chosen is [this one from Kaggle](https://www.kaggle.com/sovitrath/sports-image-dataset), where there are labeled images of 22 different sports, which are:
+```
+0: 'badminton',
+1: 'baseball',
+2: 'basketball',
+3: 'boxing',
+4: 'chess',
+5: 'cricket',
+6: 'fencing',
+7: 'football',
+8: 'formula1',
+9: 'gymnastics',
+10: 'hockey',
+11: 'ice_hockey',
+12: 'kabaddi',
+13: 'motogp',
+14: 'shooting',
+15: 'swimming',
+16: 'table_tennis',
+17: 'tennis',
+18: 'volleyball',
+19: 'weight_lifting',
+20: 'wrestling',
+21: 'wwe'
+```
 
+As a proof of concept, different approaches and architectures are tested and detailed in the notebook.
+
+Finally, using Transfer Learning and ResNet50, an accuracy of 78% has been achieved. 
 
 ### Built With
 
