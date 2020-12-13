@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project we are going to build and sport-image classifier using TensorFlow and Keras. The idea is simple: create model that, given an image in which some sport is being played, is able to tell which is taken place. 
+In this project we are going to build a sport-image classifier using TensorFlow and Keras. The idea is simple: create model that, given an image in which some sport is being played, is able to tell which is taking place. 
 
 The dataset chosen is [this one from Kaggle](https://www.kaggle.com/sovitrath/sports-image-dataset), where there are labeled images of 22 different sports, which are:
 ```
@@ -101,6 +101,8 @@ Finally, using Transfer Learning and ResNet50, an accuracy of 78% has been achie
 * TensorFlow
 * Datasets provided by Kaggle and ImageNet 
 * [Weights & Biases](https://wandb.ai/) for tracking and logging the experiments
+
+It is important, in order to follow the approach used in the ```research.ipynb```, to download the [Sport Image Dataset from Kaggle](https://www.kaggle.com/sovitrath/sports-image-dataset) and place the ```input``` folder in the root of the project, along with the notebook. 
 
 <!-- GETTING STARTED -->
 ## Documentation
