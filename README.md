@@ -104,6 +104,8 @@ Finally, using Transfer Learning and ResNet50, an accuracy of 78% has been achie
 
 It is important, in order to follow the approach used in the ```research.ipynb```, to download the [Sport Image Dataset from Kaggle](https://www.kaggle.com/sovitrath/sports-image-dataset) and place the ```input``` folder in the root of the project, along with the notebook. 
 
+You can find the same notebook integrated in Kaggle kernel, in [this link](https://www.kaggle.com/ignacioct/sportclassifier).
+
 <!-- GETTING STARTED -->
 ## Documentation
 
